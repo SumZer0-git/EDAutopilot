@@ -1,0 +1,2 @@
+# EDAutopilot
+Elite Dangerous Autopilot
